@@ -1,0 +1,13 @@
+{
+ //Config eslint
+    "eslint.alwaysShowStatus": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "files.associations": {
+        "*.jsx": "javascriptreact",
+    },
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "explorer.compactFolders": false,
+    "editor.tabSize": 2,
+}
